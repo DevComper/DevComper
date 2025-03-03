@@ -2,7 +2,7 @@
 - 👀 I’m interested in Game Development
 - 🌱 I’m currently learning Game Development and Coding
 - 💞️ I’m looking to collaborate on game jams
-- 📫 How to reach me discord (username: comper)
+- 📫 How to reach me discord (username: comper_c)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love technology and know how to fix many issues.
 
